@@ -1,0 +1,6 @@
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Oliver\Desktop\C#\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
